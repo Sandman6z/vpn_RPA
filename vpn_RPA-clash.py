@@ -2,6 +2,7 @@ import pyautogui
 import time
 import xlrd
 import pyperclip
+#还需要安装opencv-python
 
 #定义鼠标事件
 
